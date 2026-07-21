@@ -6,3 +6,5 @@ Group Members:
 - HOUR ALJUWAYSIR
 - Sereen Hassan alelyani
 - Manar Ahmed Alata
+Day 2 Update:
+- Uploaded the Phase 1 progress report.
